@@ -388,5 +388,3 @@ npm run preview              # Preview build
 ```
 
 ---
-
-**Made with ❤️ | Portfolio Ready | Production Aspirations**
