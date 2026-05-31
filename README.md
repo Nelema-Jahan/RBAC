@@ -10,7 +10,7 @@
 
 ## 📌 Overview
 
-This is a **portfolio-ready full-stack web application** demonstrating:
+This is a ** full-stack web application** demonstrating:
 - ✅ Modern React + Vite frontend with Tailwind CSS
 - ✅ Node.js/Express REST API backend
 - ✅ JWT-based authentication & authorization
